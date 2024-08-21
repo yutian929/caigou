@@ -1,0 +1,4 @@
+# 向realsense_node节点要当前货架层的信息 req = "shelf_info"
+string shelf_info_req
+---
+string shelf_info_res

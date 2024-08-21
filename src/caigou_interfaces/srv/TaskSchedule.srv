@@ -1,0 +1,4 @@
+# 独立任务节点完成后给ai_status_judge_node发送请求
+string task_schedule_req
+---
+bool task_schedule_res

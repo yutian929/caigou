@@ -1,0 +1,4 @@
+# 向realsense_node节点要当前包裹的arm_xyzclsid信息(string),也可以是rs_xyzclsid
+string package_track_req
+---
+string package_track_res

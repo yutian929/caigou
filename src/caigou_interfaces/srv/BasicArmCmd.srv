@@ -1,0 +1,5 @@
+# 传入basic_arm_cmd(json)，['grab', grab_obj_name, arm_x, arm_y, arm_z] / ['place', grab_obj_name, arm_x, arm_y, arm_z]
+string basic_arm_cmd_req
+---
+# 传出arm_finished
+bool basic_arm_cmd_res

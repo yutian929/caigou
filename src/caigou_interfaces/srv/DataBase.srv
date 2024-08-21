@@ -1,0 +1,5 @@
+# 发送json格式的请求,接收json格式的回复
+string database_req
+---
+string database_res
+

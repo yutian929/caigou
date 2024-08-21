@@ -1,0 +1,9 @@
+# 发给树莓派一个json格式字典 json.dumps(dict), 读取arduino的pump状态的话，就只要是pump_status就行
+# dict = {'set_loaction'    /'set_angle'    /'set_step'     /'get_uwb'      /'get_location'     /'get_angle'...: 
+#           [x,y]           /-180~180    /'wasd'       /0             /0                  /0...}
+string bridge_req
+---
+string bridge_res
+# 收到的也是一个字典 json.dumps(dict),
+# dict = {  'set_loaction'      /'set_angle'    /'set_step'     /'get_uwb'      /'get_location'         /'get_angle'...:
+#           [当前的x,y]         /当前的angle   /'wasd'       /[ux,uy]       /[当前的x,y]             /当前的angle...}

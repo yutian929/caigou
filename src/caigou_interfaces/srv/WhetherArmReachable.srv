@@ -1,0 +1,9 @@
+# 传入rs坐标系下的点
+float32 rs_x
+float32 rs_y
+float32 rs_z
+---
+bool arm_reachable
+float32 arm_x_shift
+float32 arm_y_shift
+# 传出机械臂是否能抓取到，如果不能，就要给出合理的平移适量
