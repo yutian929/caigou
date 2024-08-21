@@ -1,0 +1,14 @@
+description: Ultralytics track_0621n model trained on parcel.yaml
+author: Ultralytics
+date: '2024-06-21T17:04:07.879997'
+version: 8.1.47
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: box

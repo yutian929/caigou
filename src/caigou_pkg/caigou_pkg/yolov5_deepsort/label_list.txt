@@ -1,0 +1,11 @@
+box
+red_small_cube
+purple_small_cube
+blue_small_cube
+yellow_small_cube
+green_small_cube
+red_big_cube
+purple_big_cube
+green_big_cube
+yellow_big_cube
+blue_big_cube
