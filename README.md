@@ -8,4 +8,4 @@
  3.处理寄件，人车分离，也具备实时避障功能
 ## 效果 effect
  bilibili视频链接：
- 
+ https://space.bilibili.com/504386197/channel/collectiondetail?sid=3744071
